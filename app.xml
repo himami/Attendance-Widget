@@ -8,5 +8,5 @@
  
     <!-- Defines a custom widget for this plugin -->
     <widget class="com.jivesoftware.clearspace.plugin.example.widget.HelloWorldWidget" />
-
-</Module>
+    <Content view="home, canvas" type="html" href="dealroom.htm" preferred_height="600" preferred_width="800"/>
+    </Module>
